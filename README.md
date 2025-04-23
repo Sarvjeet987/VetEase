@@ -45,25 +45,25 @@ The Veterinary Appointment Booking System uses the following technologies:
 
 1. Landing Page
 
-![landing page](https://user-images.githubusercontent.com/114161535/229288911-dff994bb-cf78-48cd-a451-ef6d691adf3b.png)
+
 
 2. Book Appointment Page
 
-![book appointment](https://user-images.githubusercontent.com/114161535/229288926-8396fa11-889b-4b68-9b47-f5ff45cefa46.png)
+
 
 3. View Appointment Page
 
-![view appointment](https://user-images.githubusercontent.com/114161535/229288939-923f07b7-58ee-4018-ade6-f9846e8d7658.png)
+
 
 4. Login Page
 
-![login page](https://user-images.githubusercontent.com/114161535/229288950-f027bad5-c64a-4e23-a1d8-38ba8b285ce6.png)
+
 
 5. VetCare Virtual Meet
 
-![image](https://user-images.githubusercontent.com/114161535/229353448-a7f3c37b-eeac-40ab-8527-cef4d08b686b.png)
 
-![image](https://user-images.githubusercontent.com/114161535/229457696-d5f479ec-160c-4975-a16f-79eb4c883fee.png)
+
+
 
 
 
