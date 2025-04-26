@@ -1,4 +1,5 @@
-# Vates
+# VetEase
+
 
 <div align="center">
   <img src="https://mdbootstrap.com/img/Photos/new-templates/animal-shelter/logo.png" alt="Git" />
